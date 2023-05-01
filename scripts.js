@@ -64,7 +64,7 @@ const getList = async () => {
   
   /*
     --------------------------------------------------------------------------------------
-    Função para remover um item da lista de acordo com o click no botão close
+    Função para remover um item da lista com o click no botão close
     --------------------------------------------------------------------------------------
   */
   const removeElement = () => {
